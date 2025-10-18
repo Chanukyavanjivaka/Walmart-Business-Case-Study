@@ -44,5 +44,9 @@ This project demonstrates how **data analytics can transform retail decisions**:
 
 ---
 
-## 🧩 Repository Structure
+## ▶️ Run the Notebook on Google Colab
+You can open and run this analysis directly on Google Colab using the link below:
+
+[Open in Google Colab](https://colab.research.google.com/drive/1UXw_NsEqiSDnDdM77PVeHh8XtfGdpQ7L?usp=sharing)
+
 
